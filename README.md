@@ -1,14 +1,15 @@
 # AI_Research
 
-This Research is about Artificial Intelligence
+This project focuses on research in Artificial Intelligence. The repository is organised into structured folders to make navigation and collaboration easy.
 
-Information about folders:
-The interview transcript contains the all participants interview transcript
+Folder Structure
 
-Project Drafts includes all the Project drafts versions 
+Interview Transcripts → Contains all participants’ interview transcripts.
 
-Project plan contains architecture and plan of the project 
+Project Drafts → Includes different versions of project drafts.
 
-References inculdes all the papers referenced in this project 
+Project Plan → Contains the project architecture and planning documents.
 
-Survey Data contains raw and processed data 
+References → Collection of research papers and articles referenced in this project.
+
+Survey Data → Contains both raw and processed survey data.
